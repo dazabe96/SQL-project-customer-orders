@@ -3,7 +3,7 @@
 This project combines **SQLite + Python (pandas + matplotlib)** to analyze customer orders.  
 It demonstrates SQL queries, data manipulation, and visualization — a common workflow for data analysts.
 
-## 📁 Project Structure
+##  Project Structure
 
 
 SQL-project-customer-orders/
@@ -16,7 +16,7 @@ SQL-project-customer-orders/
 └── README.md
 
 
-## ⚙️ How It Works
+##  How It Works
 - The SQLite database contains two tables:  
   **customers** (`customer_id`, `name`, `age`, `city`)  
   **orders** (`order_id`, `customer_id`, `date`, `amount`)
@@ -28,19 +28,19 @@ SQL-project-customer-orders/
     - Monthly expenses summary.
   - Saves two charts into the `images/` folder.
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 - SQL (table creation, joins, aggregation)
 - Python (pandas, matplotlib)
 - Data visualization and reporting
 - Basic data workflow automation
 
-## 📸 Sample Output
+##  Sample Output
 
-**1️⃣ Total Spent by Customer**
+** 1 Total Spent by Customer**
 
 ![Total by Customer](images/total_by_customer.png)
 
-**2️⃣ Expenses Over Time**
+** 2 Expenses Over Time**
 
 ![Expenses Over Time](images/expenses_over_time.png)
 
