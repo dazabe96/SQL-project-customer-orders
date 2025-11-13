@@ -36,11 +36,11 @@ SQL-project-customer-orders/
 
 ##  Sample Output
 
-** 1 Total Spent by Customer**
+**1 Total Spent by Customer**
 
 ![Total by Customer](images/total_by_customer.png)
 
-** 2 Expenses Over Time**
+**2 Expenses Over Time**
 
 ![Expenses Over Time](images/expenses_over_time.png)
 
